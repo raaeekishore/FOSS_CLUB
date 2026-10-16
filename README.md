@@ -1,6 +1,6 @@
 # Handwritten Digit Classification using CNN
 
-## Overview
+## Overview 
 
 This project implements a **Convolutional Neural Network (CNN)** using TensorFlow and Keras to classify handwritten digits from 0 to 9. It uses the MNIST dataset, which contains grayscale images of handwritten digits.
 
